@@ -1,0 +1,14 @@
+{
+  "Friday Workout": {
+    "label": "Friday Workout",
+    "children": [
+      {
+        "id": "b",
+        "label": "Friday Workout (12 @34)",
+        "value": "1",
+        "sequence": 9,
+        "active": false
+      }
+    ]
+  }
+}

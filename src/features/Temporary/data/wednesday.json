@@ -1,0 +1,98 @@
+[
+  {
+    "id": "b",
+    "label": "Bicep Curls (ezbar 12 @40)",
+    "value": "1",
+    "active": false
+  },
+  {
+    "id": "bb",
+    "label": "Bicep Curls (ezbar 12 @40)",
+    "value": "1",
+    "active": false
+  },
+  {
+    "id": "bbb",
+    "label": "Bicep Curls (ezbar 12 @40)",
+    "value": "1",
+    "active": false
+  },
+  {
+    "id": "dd",
+    "label": "Seated Rows (12 @RBYYkg x2)",
+    "value": "1",
+    "active": false
+  },
+  {
+    "id": "ddd",
+    "label": "Seated Rows (12 @RBYYkg)",
+    "value": "1",
+    "active": false
+  },
+  {
+    "id": "dddd",
+    "label": "Seated Rows (12 @RBYYkg)",
+    "value": "1",
+    "active": false
+  },
+  {
+    "id": "cc",
+    "label": "Pull Ups (10 @bw)",
+    "value": "1",
+    "active": false
+  },
+  {
+    "id": "ccdefghij",
+    "label": "Pull Ups (10 @bw)",
+    "value": "1",
+    "active": false
+  },
+  {
+    "id": "ccdefg",
+    "label": "Pull Ups (10 @bw)",
+    "value": "1",
+    "active": false
+  },
+  {
+    "id": "ccc",
+    "label": "Pull Ups (10 @bw)",
+    "value": "1",
+    "active": false
+  },
+  {
+    "id": "cccc",
+    "label": "Pull Ups (10 @bw)",
+    "value": "1",
+    "active": false
+  },
+  {
+    "id": "cccccd",
+    "label": "Pull Ups (10 @bw)",
+    "value": "1",
+    "active": false
+  },
+  {
+    "id": "ccccce",
+    "label": "Pull Ups (10 @bw)",
+    "value": "1",
+    "active": false
+  },
+  {
+    "id": "ccccccg",
+    "label": "Pull Ups (10 @bw)",
+    "value": "1",
+    "active": false
+  },
+  {
+    "id": "cccccccch",
+    "label": "Pull Ups (10 @bw)",
+    "value": "1",
+    "active": false
+  },
+  {
+    "id": "cccccccchg",
+    "label": "Pull Ups (10 @bw)",
+    "value": "1",
+    "active": false
+  }
+]

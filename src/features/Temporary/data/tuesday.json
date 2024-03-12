@@ -1,0 +1,181 @@
+{
+  "pull ups": {
+    "label": "Pull ups",
+    "children": [
+      {
+        "id": "b",
+        "label": "Pull ups (10 @10kg)",
+        "value": "1",
+        "sequence": 9,
+        "active": false
+      },
+      {
+        "id": "bb",
+        "label": "Pull ups (10 @10kg)",
+        "value": "1",
+        "sequence": 55,
+        "active": false
+      },
+      {
+        "id": "bbb",
+        "label": "Pull ups (10 @10kg)",
+        "value": "1",
+        "sequence": 22,
+        "active": false
+      },
+      {
+        "id": "dd",
+        "label": "Pull ups (10 @15kg)",
+        "value": "1",
+        "sequence": 3324,
+        "active": false
+      },
+      {
+        "id": "ddd",
+        "label": "Pull ups (10 @15kg)",
+        "value": "1",
+        "sequence": 111324,
+        "active": false
+      },
+      {
+        "id": "dddd",
+        "label": "Pull ups (10 @15kg)",
+        "value": "1",
+        "sequence": 1113245,
+        "active": false
+      },
+      {
+        "id": "cc",
+        "label": "Pull ups (10 @15kg)",
+        "value": "1",
+        "sequence": 2653,
+        "active": false
+      },
+      {
+        "id": "ccc",
+        "label": "Pull ups (10 @15kg)",
+        "value": "1",
+        "sequence": 211,
+        "active": false
+      },
+      {
+        "id": "cccc",
+        "label": "Pull ups (10 @15kg)",
+        "value": "1",
+        "sequence": 2232,
+        "active": false
+      },
+      {
+        "id": "ccccc",
+        "label": "Pull ups (10 @15kg)",
+        "value": "1",
+        "sequence": 245,
+        "active": false
+      }
+    ]
+  },
+  "Bent over rows": {
+    "label": "Bent over rows",
+    "children": [
+      {
+        "id": "e",
+        "label": "Bent over rows (12 @36kg)",
+        "value": "1",
+        "sequence": 432453,
+        "active": false
+      },
+      {
+        "id": "f",
+        "label": "Bent over rows (12 @36kg)",
+        "value": "1",
+        "sequence": 5,
+        "active": false
+      },
+      {
+        "id": "g",
+        "label": "Bent over rows (12 @36kg)",
+        "value": "1",
+        "sequence": 6,
+        "active": false
+      }
+    ]
+  },
+  "Face pulls": {
+    "label": "Face pulls",
+    "children": [
+      {
+        "id": "h",
+        "label": "Face pulls (12 @40kg)",
+        "value": "1",
+        "sequence": 7,
+        "active": false
+      },
+      {
+        "id": "i",
+        "label": "Face pulls (12 @40kg)",
+        "value": "1",
+        "sequence": 8,
+        "active": false
+      },
+      {
+        "id": "j",
+        "label": "Face pulls (12 @40kg)",
+        "value": "1",
+        "sequence": 9,
+        "active": false
+      }
+    ]
+  },
+  "Bicep curls": {
+    "label": "Bicep curls",
+    "children": [
+      {
+        "id": "i-i",
+        "label": "Bicep curls (12 @30kg)",
+        "value": "1",
+        "sequence": 8,
+        "active": false
+      },
+      {
+        "id": "j-i",
+        "label": "Bicep curls (12 @30kg)",
+        "value": "1",
+        "sequence": 9,
+        "active": false
+      },
+      {
+        "id": "k-i",
+        "label": "Bicep curls (12 @30kg)",
+        "value": "1",
+        "sequence": 10,
+        "active": false
+      }
+    ]
+  },
+  "Barbel shoulder press": {
+    "label": "Barbel shoulder press",
+    "children": [
+      {
+        "id": "i-ii",
+        "label": "Barbel shoulder press (12 @bar weight)",
+        "value": "1",
+        "sequence": 8,
+        "active": false
+      },
+      {
+        "id": "j-ii",
+        "label": "Barbel shoulder press (12 @bar weight)",
+        "value": "1",
+        "sequence": 9,
+        "active": false
+      },
+      {
+        "id": "k-ii",
+        "label": "Barbel shoulder press (12 @bar weight)",
+        "value": "1",
+        "sequence": 10,
+        "active": false
+      }
+    ]
+  }
+}

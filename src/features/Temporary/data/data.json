@@ -1,0 +1,88 @@
+{
+  "checklist": [
+    {
+      "id": "b",
+      "label": "Paint Door in Gym",
+      "value": "1",
+      "sequence": 1,
+      "active": false
+    },
+    {
+      "id": "be",
+      "label": "Get Paint Materials (from under the deck)",
+      "value": "1",
+      "sequence": 1,
+      "active": false
+    },
+    {
+      "id": "cssrt34d",
+      "label": "Make healthy breakfast",
+      "value": "",
+      "sequence": 2,
+      "active": false
+    },
+    {
+      "id": "dsdfgsdt4344",
+      "label": "Make bed",
+      "value": "",
+      "sequence": 3,
+      "active": false
+    },
+    {
+      "id": "e223345dfgsdfg ",
+      "label": "Vacuum Room",
+      "value": "",
+      "sequence": 4,
+      "active": false
+    },
+    {
+      "id": "fsee",
+      "label": "Wash stove top",
+      "value": "",
+      "sequence": 4,
+      "active": false
+    },
+    {
+      "id": "eoosp",
+      "label": "Vacuum up pile in kitchen",
+      "value": "",
+      "sequence": 4,
+      "active": false
+    },
+    {
+      "id": "qq12",
+      "label": "Brush teeth",
+      "value": "",
+      "sequence": 4,
+      "active": false
+    },
+    {
+      "id": "e4421233",
+      "label": "Drive Motorcycle to Maquarie ",
+      "value": "",
+      "sequence": 5,
+      "active": false
+    },
+    {
+      "id": "e5t67856756",
+      "label": "Workout - Upper Body (biceps and back)",
+      "value": "",
+      "sequence": 6,
+      "active": false
+    },
+    {
+      "id": "ehsdfgjke4",
+      "label": "Go for run two laps around park",
+      "value": "",
+      "sequence": 7,
+      "active": false
+    },
+    {
+      "id": "efs",
+      "label": "Fix Qantas work and open PR with code changes",
+      "value": "",
+      "sequence": 7,
+      "active": false
+    }
+  ]
+}
